@@ -1,4 +1,7 @@
 ## Deploying OFT (V1)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Preahvihear&pause=1000&color=F71270&background=FF09A800&center=true&vCenter=true&multiline=true&width=435&lines=Layer+Zero+OFT+Deployer" alt="Typing SVG" /></a>
+
+### Information's
 Запуск смартов в  7 сетях(тестнеты):
 npx hardhat deploy --network goerli --tags ExampleOFT
 npx hardhat deploy --network bsc-testnet --tags ExampleOFT
